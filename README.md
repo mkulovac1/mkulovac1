@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Merim Kulovac, an engineer and software enthusiast based in Sarajevo. With a bachelor's degree in Electrical Engineering specialized in Computer Science and Informatics, I'm on a perpetual quest to explore the dynamic landscape of technology. You can check some of my projects below.
 
