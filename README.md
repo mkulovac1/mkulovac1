@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Merim Kulovac, an engineer and software enthusiast based in Sarajevo. With a bachelor's degree in Electrical Engineering specialized in Computer Science and Informatics, I'm on a perpetual quest to explore the dynamic landscape of technology. You can check some of my projects below.
+I'm Merim Kulovac, an engineer and software enthusiast based in Sarajevo. With a bachelor's degree in Electrical Engineering specialized in Computer Science and Informatics, I'm on a perpetual quest to explore the dynamic landscape of technology. You can check some of my projects below. Also, you can check my resume (CV) on the following link: [CLICK ME](https://drive.google.com/file/d/14IMvzAy9ptmdZS1X-Zp11qJrlenkHLHs/view).
 
 ## 🔧 Tech Stack
 - Frontend: HTML, CSS, Javascript, React, Angular
